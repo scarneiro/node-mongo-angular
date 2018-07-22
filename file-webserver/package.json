@@ -1,0 +1,20 @@
+{
+  "name": "file-webserver",
+  "version": "1.0.0",
+  "description": "Small webserver for static files",
+  "main": "http_server_static.js",
+  "scripts": {
+    "test": "node http_server_static.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scarneiro/node-mongo-angular/tree/master/file-webserver"
+  },
+  "keywords": [
+    "server",
+    "file",
+    "example"
+  ],
+  "author": "Sebastian Carneiro",
+  "license": "ISC"
+}
