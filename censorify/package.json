@@ -1,9 +1,14 @@
 {
   "author": "Sebastian Carneiro",
-  "name": "censorify",
+  "name": "censorify-scarneiro",
   "version": "1.0.0",
   "description": "censors words out of text",
   "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scarneiro/node-mongo-angular/tree/master/censorify"
+  },
+  "keywords": ["censor", "words"],
   "dependencies": {},
   "engines": {
     "node": "*"
