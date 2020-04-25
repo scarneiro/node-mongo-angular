@@ -1,0 +1,20 @@
+{
+  "name": "file-webclient",
+  "version": "1.0.0",
+  "description": "Small web client for retrieving static files",
+  "main": "http_client_static.js",
+  "scripts": {
+    "test": "node http_client_static.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scarneiro/node-mongo-angular/tree/master/file-webclient"
+  },
+  "keywords": [
+    "file",
+    "client",
+    "example"
+  ],
+  "author": "Sebastian Carneiro",
+  "license": "ISC"
+}
